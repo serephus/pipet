@@ -27,8 +27,8 @@
         owner = "serephus";
         name = "pipet";
 
-        description = "description";
-        homepage = "homepage";
+        description = "Signed remote command execution over https://cocoon.sereph.us.";
+        homepage = "https://github.com/serephus/pipet";
         topics = [
           "python"
           "pipet"
